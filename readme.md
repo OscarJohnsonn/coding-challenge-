@@ -23,7 +23,7 @@ This application analyzes log files to track job execution times and identify jo
    ```sh
    pip install matplotlib
    ```
-   (Tkinter is included with most Python installations)
+
 
 ## Usage
 
