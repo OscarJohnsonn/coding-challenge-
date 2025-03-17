@@ -19,16 +19,11 @@ This application analyzes log files to track job execution times and identify jo
 
 ## Installation
 
-1. Clone this repository:
-   ```sh
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
-2. Install required dependencies:
+1. Install required dependencies:
    ```sh
    pip install matplotlib
    ```
-   (Tkinter is included with most Python installations)
+
 
 ## Usage
 
